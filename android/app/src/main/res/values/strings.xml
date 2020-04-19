@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Agendae</string>
+    <string name="facebook_app_id">911961622581511</string> 
+    <string name="fb_login_protocol_scheme">fb911961622581511</string>
+</resources>
